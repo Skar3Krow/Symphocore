@@ -1,0 +1,3 @@
+[submodule "deep-speaker"]
+	path = deep-speaker
+	url = https://github.com/philipperemy/deep-speaker.git
